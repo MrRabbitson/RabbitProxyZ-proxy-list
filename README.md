@@ -3,5 +3,7 @@
 
 Updates every 15 minutes
 
-Link: `https://raw.githubusercontent.com/MrRabbitson/RabbitProxyZ-proxy-list/refs/heads/main/sub.txt`
+Link:
+```
+https://raw.githubusercontent.com/MrRabbitson/RabbitProxyZ-proxy-list/refs/heads/main/sub.txt```
 
