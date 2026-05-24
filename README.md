@@ -1,3 +1,5 @@
+[🇷🇺 RU](https://github.com/MrRabbitson/RabbitProxyZ-proxy-list/) | [🇺🇸 EN](https://github.com/MrRabbitson/RabbitProxyZ-proxy-list/blob/main/README_en.md)
+
 # RabbitProxyZ
 **Бесплатный конфиг для VPN – Vless, Vmess, Shadowsocks, Trojan и др.**
 
