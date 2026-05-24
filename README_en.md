@@ -3,7 +3,7 @@
 # RabbitProxyZ
 **Free VPN config – Vless, Vmess, Shadowsocks, Trojan etc.**
 
-Updates every 20-30 minutes
+Updates every 1 hour
 
 **Config link:**
 ```
