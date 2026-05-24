@@ -1,6 +1,6 @@
 # profile-title: base64:8J+NpfCfjLjwn5Ku44CQUmFiYml0UHJveHla44CR8J+NpfCfjLjwn5Ku
 # profile-update-interval: 1
-# Date/Time: 2026-05-24 / 05:31:48 (Moscow)
+# Date/Time: 2026-05-24 / 05:35:30 (Moscow)
 # Количество: 1964
 hysteria2://dongtaiwang.com@62.210.124.146:22000?sni=www.microsoft.com&insecure=1&allowInsecure=1#%F0%9F%87%AB%F0%9F%87%B7%20%E2%80%A2%20France%20%E2%80%93%20Paris
 hysteria2://10550754-cf62-3d3b-ba6a-50be27a275d7@185.106.96.231:443?sni=s559.ccgfw.top&insecure=1#%F0%9F%87%BA%F0%9F%87%B8%20%E2%80%A2%20United%20States%20%E2%80%93%20Los%20Angeles
