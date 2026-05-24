@@ -1,9 +1,9 @@
-# RabbitProxyZ-proxy-list
-**Free vless, shadowsocks, vma, trojan, hysteria2 proxy list**
+# RabbitProxyZ
+**Бесплатный конфиг для VPN – Vless, Vmess, Shadowsocks, Trojan и др.**
 
-Updates every 15 minutes
+Обновляется каждые 20-30 минут
 
-**Link**
+**Ссылка на конфиг:**
 ```
 https://raw.githubusercontent.com/MrRabbitson/RabbitProxyZ-proxy-list/refs/heads/main/sub.txt
 ```
