@@ -10,7 +10,7 @@ Updated every 15-20 minutes
 ```
 https://raw.githubusercontent.com/MrRabbitson/RabbitProxyZ-proxy-list/refs/heads/main/lite.txt
 ```
-**Full config (25,000+ keys) keys):**
+**Full config (25,000+ keys):**
 ```
 https://raw.githubusercontent.com/MrRabbitson/RabbitProxyZ-proxy-list/refs/heads/main/sub.txt
 ```
