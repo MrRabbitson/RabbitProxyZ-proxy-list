@@ -3,10 +3,19 @@
 # RabbitProxyZ
 **Бесплатный конфиг для VPN – Vless, Vmess, Shadowsocks, Trojan и др.**
 
-Обновляется каждый час
+Обновляется каждые 15-20 минут
 
-**Ссылка на конфиг:**
+## Конфиги
+**Лайт-конфиг (300 ключей):**
+```
+https://raw.githubusercontent.com/MrRabbitson/RabbitProxyZ-proxy-list/refs/heads/main/lite.txt
+```
+**Полный конфиг (25000+ ключей):**
 ```
 https://raw.githubusercontent.com/MrRabbitson/RabbitProxyZ-proxy-list/refs/heads/main/sub.txt
+```
+**Белые списки:**
+```
+https://raw.githubusercontent.com/MrRabbitson/RabbitProxyZ-proxy-list/refs/heads/main/whitelists.txt
 ```
 
