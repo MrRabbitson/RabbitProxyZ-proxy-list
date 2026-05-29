@@ -1,6 +1,6 @@
 # profile-title: base64:8J+Mj+OAkFJhYmJpdFByb3h5WiBMSVRF44CR8J+Mjw==
 # profile-update-interval: 1
-# Date/Time: 2026-05-30 / 02:17:49 (Moscow)
+# Date/Time: 2026-05-30 / 02:33:05 (Moscow)
 # Количество: 300
 trojan://Mitivpn@165.215.250.160:443?type=ws&security=tls&path=%2F%3Fed%3Dmitivpn&host=panel.hitgram.ir&sni=panel.hitgram.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20%E2%80%A2%20United%20States%20%E2%80%93%20Unknown
 trojan://HmR0Oph6BvB_GHpFvmMhZg@198.105.115.100:3554?type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20%E2%80%A2%20Germany%20%E2%80%93%20Frankfurt%20am%20Main
