@@ -1,6 +1,6 @@
 # profile-title: base64:8J+Mj+OAkFJhYmJpdFByb3h5WiBMSVRF44CR8J+Mjw==
 # profile-update-interval: 1
-# Date/Time: 2026-05-29 / 09:57:18 (Moscow)
+# Date/Time: 2026-05-29 / 10:12:34 (Moscow)
 # Количество: 300
 ss://6202b230-417c-4d8e-b624-0f71afa9c75d@92.53.190.40:8880?type=ws&host=vms.lifetime20.workers.dev&path=/?ed=2560&https://t.me/youtube@ZYFXS🇨🇳fp=chrome#%F0%9F%8C%8D%20%E2%80%A2%20Slovenia%20%E2%80%93%20Unknown
 ss://6202b230-417c-4d8e-b624-0f71afa9c75d@92.53.190.30:8880?&type=ws&headerType=none&host=vms.lifetime20.workers.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2Fyoutube%40ZYFXS%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%8C%8D%20%E2%80%A2%20Slovenia%20%E2%80%93%20Unknown
