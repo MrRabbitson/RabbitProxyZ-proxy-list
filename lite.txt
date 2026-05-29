@@ -1,6 +1,6 @@
 # profile-title: base64:8J+Mj+OAkFJhYmJpdFByb3h5WiBMSVRF44CR8J+Mjw==
 # profile-update-interval: 1
-# Date/Time: 2026-05-29 / 12:45:22 (Moscow)
+# Date/Time: 2026-05-29 / 13:00:36 (Moscow)
 # Количество: 300
 ss://e258977b-e413-4718-a3af-02d75492c349@216.24.57.7:443?security=tls&type=ws&path=%2F&host=jp.aniua.qzz.io&sni=jp.aniua.qzz.io&fp=chrome&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20%E2%80%A2%20United%20States%20%E2%80%93%20Unknown
 trojan://mitivpn@104.18.20.213:443?path=%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.app-cloud.ir#%F0%9F%8C%8D%20%E2%80%A2%20Unknown%20%E2%80%93%20Unknown
