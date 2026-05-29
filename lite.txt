@@ -1,6 +1,6 @@
 # profile-title: base64:8J+Mj+OAkFJhYmJpdFByb3h5WiBMSVRF44CR8J+Mjw==
 # profile-update-interval: 1
-# Date/Time: 2026-05-29 / 20:39:46 (Moscow)
+# Date/Time: 2026-05-29 / 20:55:01 (Moscow)
 # Количество: 300
 ss://Telegram-Parsashonam-3@27.50.48.49:443?mode=auto&path=%2Fp4r34m&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=p4r34m.hendevaneh.sbs&fp=chrome&type=xhttp&allowInsecure=1&sni=p4r34m.hendevaneh.sbs#%F0%9F%87%B8%F0%9F%87%AC%20%E2%80%A2%20Singapore%20%E2%80%93%20Unknown
 ss://27302727-9dfa-4975-990e-88c7a63747cd@50.62.198.124:443?path=%2F&security=tls&encryption=none&host=ws-x1.pages.dev&type=ws&sni=ws-x1.pages.dev#%F0%9F%87%BA%F0%9F%87%B8%20%E2%80%A2%20United%20States%20%E2%80%93%20Unknown
