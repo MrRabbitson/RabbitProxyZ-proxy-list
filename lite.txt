@@ -1,6 +1,6 @@
 # profile-title: base64:8J+Mj+OAkFJhYmJpdFByb3h5WiBMSVRF44CR8J+Mjw==
 # profile-update-interval: 1
-# Date/Time: 2026-05-30 / 03:03:35 (Moscow)
+# Date/Time: 2026-05-30 / 03:18:47 (Moscow)
 # Количество: 300
 trojan://Mitivpn@198.62.62.8:443?path=/?ed=2048&security=tls&alpn=http/1.1&insecure=1&host=dash.hitgram.ir&fp=chrome&type=ws&allowInsecure=1&sni=dash.hitgram.ir#%F0%9F%87%BA%F0%9F%87%B8%20%E2%80%A2%20United%20States%20%E2%80%93%20Unknown
 trojan://humanity@216.24.57.7:443?path=/assignment&security=tls&host=www.ignitelimit.com&type=ws&sni=www.ignitelimit.com#%F0%9F%87%BA%F0%9F%87%B8%20%E2%80%A2%20United%20States%20%E2%80%93%20Unknown
