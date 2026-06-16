@@ -1,6 +1,6 @@
 # profile-title: base64:8J+NpfCfjLjwn5Ku44CQUmFiYml0UHJveHla44CR8J+NpfCfjLjwn5Ku
 # profile-update-interval: 1
-# Date/Time: 2026-06-16 / 07:05:56 (Moscow)
+# Date/Time: 2026-06-16 / 07:21:06 (Moscow)
 # Количество: 25986
 trojan://d1UH4TrhvCmjc-s4nmChew1qGqX3MNMqel@130.94.29.102:443?type=tcp&security=tls&headerType=none&sni=www.ws-converter.click&fp=chrome&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20%E2%80%A2%20United%20States%20%E2%80%93%20Unknown
 trojan://T5mQb1DCbOaJsr5UACQTe0elQ3BBH9Bf_g@185.126.238.78:443?type=tcp&security=tls&headerType=none&sni=www.archiveselector.click&fp=chrome&allowInsecure=1#%F0%9F%87%AC%F0%9F%87%B7%20%E2%80%A2%20Greece%20%E2%80%93%20Athens
