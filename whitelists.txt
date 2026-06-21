@@ -1,6 +1,10 @@
 # profile-title: base64:8J+Ps+OAkFJhYmJpdFByb3h5WiDDlyDQkdCV0JvQq9CVINCh0J/QmNCh0JrQmOOAkQ==
 # profile-update-interval: 1
-# Date/Time: 2026-06-21 / 18:05:58 (Moscow)
-# Количество: 2
+# Date/Time: 2026-06-21 / 18:21:46 (Moscow)
+# Количество: 6
+vless://d7d4a028-d5cd-4e1d-ab0a-6712ac1580dc@158.160.239.151:443?encryption=none&type=xhttp&security=reality&path=/cdn-stream-c93a&mode=stream-one&extra=null&fp=firefox&sni=yandex.ru&pbk=f3FMThwEbSnGM8h31NH50e-X_zuALPittQv3MAWCkkA&sid=c93a6c16b8ef5c0f#%F0%9F%87%B7%F0%9F%87%BA%20%E2%80%A2%20Russia%20%E2%80%93%20Moscow%20%C3%97%20%F0%9F%8F%B3%20Whitelists
+ss://d7d4a028-d5cd-4e1d-ab0a-6712ac1580dc@158.160.239.151:443?encryption=none&type=xhttp&security=reality&path=/cdn-stream-c93a&mode=stream-one&extra=null&fp=firefox&sni=yandex.ru&pbk=f3FMThwEbSnGM8h31NH50e-X_zuALPittQv3MAWCkkA&sid=c93a6c16b8ef5c0f#%F0%9F%87%B7%F0%9F%87%BA%20%E2%80%A2%20Russia%20%E2%80%93%20Moscow%20%C3%97%20%F0%9F%8F%B3%20Whitelists
+ss://d7d4a028-d5cd-4e1d-ab0a-6712ac1580dc@158.160.239.151:443?type=xhttp&security=reality&path=%2Fcdn-stream-c93a&sni=yandex.ru&fp=firefox&pbk=f3FMThwEbSnGM8h31NH50e-X_zuALPittQv3MAWCkkA&sid=c93a6c16b8ef5c0f#%F0%9F%87%B7%F0%9F%87%BA%20%E2%80%A2%20Russia%20%E2%80%93%20Moscow%20%C3%97%20%F0%9F%8F%B3%20Whitelists
+vless://d7d4a028-d5cd-4e1d-ab0a-6712ac1580dc@158.160.239.151:443?type=xhttp&security=reality&path=%2Fcdn-stream-c93a&sni=yandex.ru&fp=firefox&pbk=f3FMThwEbSnGM8h31NH50e-X_zuALPittQv3MAWCkkA&sid=c93a6c16b8ef5c0f#%F0%9F%87%B7%F0%9F%87%BA%20%E2%80%A2%20Russia%20%E2%80%93%20Moscow%20%C3%97%20%F0%9F%8F%B3%20Whitelists
 vless://a5ea9247-79f3-4655-aece-3fb51e1e669e@158.160.198.162:443?type=tcp&headerType=none&security=reality&encryption=none&sni=rezerv11.yunus.guru&fp=edge&pbk=6QIHdF1dvSK8mDPOeWXvGIqJmZ2ySq5fyc7N15h1WFE&sid=34256b39b4ebb864&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA%20%E2%80%A2%20Russia%20%E2%80%93%20Moscow%20%C3%97%20%F0%9F%8F%B3%20Whitelists
 ss://a5ea9247-79f3-4655-aece-3fb51e1e669e@158.160.198.162:443?type=tcp&headerType=none&security=reality&encryption=none&sni=rezerv11.yunus.guru&fp=edge&pbk=6QIHdF1dvSK8mDPOeWXvGIqJmZ2ySq5fyc7N15h1WFE&sid=34256b39b4ebb864&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA%20%E2%80%A2%20Russia%20%E2%80%93%20Moscow%20%C3%97%20%F0%9F%8F%B3%20Whitelists
