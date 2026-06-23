@@ -1,6 +1,6 @@
 # profile-title: base64:8J+Mj+OAkFJhYmJpdFByb3h5WiBMSVRF44CR8J+Mjw==
 # profile-update-interval: 1
-# Date/Time: 2026-06-23 / 23:49:50 (Moscow)
+# Date/Time: 2026-06-24 / 00:05:10 (Moscow)
 # Количество: 300
 trojan://MITIVPN@151.101.1.194:80?type=ws&security=none&path=%2Fed%3Dmitivpn&host=mitivpn--3.global.ssl.fastly.net#%F0%9F%87%BA%F0%9F%87%B8%20%E2%80%A2%20United%20States%20%E2%80%93%20Unknown
 trojan://MITIVPN@199.232.78.157:443?security=tls&sni=global.fastly.com&alpn=http/1.1&type=ws&host=mitivpn--4.global.ssl.fastly.net&path=/ed=mitivpn#%F0%9F%87%BA%F0%9F%87%B8%20%E2%80%A2%20United%20States%20%E2%80%93%20Chicago
