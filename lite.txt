@@ -1,6 +1,6 @@
 # profile-title: base64:8J+Mj+OAkFJhYmJpdFByb3h5WiBMSVRF44CR8J+Mjw==
 # profile-update-interval: 1
-# Date/Time: 2026-06-24 / 03:53:34 (Moscow)
+# Date/Time: 2026-06-24 / 04:08:48 (Moscow)
 # Количество: 300
 vless://08c063d4-17d8-4d44-8f1c-6a1e782d3a1e@167.82.101.213:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=vexikopq012.global.ssl.fastly.net&fp=firefox&type=xhttp&allowInsecure=0&sni=global.fastly.com#%F0%9F%87%BA%F0%9F%87%B8%20%E2%80%A2%20United%20States%20%E2%80%93%20Unknown
 trojan://humanity@81.255.155.10:443?security=tls&sni=www.creationlong.org&type=ws&host=www.creationlong.org&path=%2Fassignment#%F0%9F%87%AB%F0%9F%87%B7%20%E2%80%A2%20France%20%E2%80%93%20Paris
@@ -298,7 +298,7 @@ vless://33de2596-d95d-412b-a8c2-410be7060ca3@212.41.10.228:443?security=reality&
 ss://52faee73-e0fe-4661-992d-67259257170f@uk-gthost-01.com:8443?&security=reality&flow=xtls-rprx-vision&pbk=dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8&sid=ea10cd5686751ec5&sni=storage.yandex.net&type=tcp&headerType=none&host=storage.yandex.net&path=%2F#%F0%9F%8C%8D%20%E2%80%A2%20Unknown%20%E2%80%93%20Unknown
 vless://36562b99-aadd-4e38-b566-24e0d219b1d6@195.63.133.145:443?path=%2F&security=&encryption=none&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20%E2%80%A2%20The%20Netherlands%20%E2%80%93%20Amsterdam
 vless://7b3b6e39-dd78-0001-af6e-6d00da419aa0@ru13.aimodelhub.top:443?type=xhttp&security=reality&path=/&sni=ru13.aimodelhub.top&fp=edge&pbk=Fe5PnOaERhhHbBXhGBEsQaRUBpSM8hCc03zOEpHz218&sid=51b784e13468#%F0%9F%8C%8D%20%E2%80%A2%20Unknown%20%E2%80%93%20Unknown
+ss://ba302f7c-8ded-4ea6-99be-5abfd3ab6b3e@138.16.152.178:443?type=grpc&headerType=none&security=reality&encryption=none&sni=maps.apple.com&fp=firefox&pbk=gr7DAOBqoNiHEUhWZQh3nSqBOmg6QwmRC0HKj7TOsUk&sid=2da4299da566b7&serviceName=your-custom-path#%F0%9F%87%B7%F0%9F%87%BA%20%E2%80%A2%20Russia%20%E2%80%93%20Unknown
 hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@fta.fontanvpn.com:443?headerType=none&sni=fta.fontanvpn.com&insecure=0&encryption=none&descriptions=%D0%BB%D1%8E%D0%B1%D0%B8_%D1%81%D0%B5%D0%B1%D1%8F0d408b#%F0%9F%8C%8D%20%E2%80%A2%20Unknown%20%E2%80%93%20Unknown
 ss://33de2596-d95d-412b-a8c2-410be7060ca3@95.163.211.219:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=fi.sellflow.org&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#%F0%9F%87%B7%F0%9F%87%BA%20%E2%80%A2%20Russia%20%E2%80%93%20Unknown
 ss://599907db-9e9e-4c50-b9f1-d1b42cdec21f@5.188.141.35:993?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=ads.x5.ru&pbk=NQHJZ88t5mdW_YiTrgzsCwoJO0tgK2CP8Cd1HP-_6Gw&sid=bad5722c72a038#%F0%9F%87%B7%F0%9F%87%BA%20%E2%80%A2%20Russia%20%E2%80%93%20Moscow
-ss://7896c501-248f-4068-bc2f-363c91ba5122@45.198.87.193:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=storage.yandex.net&fp=chrome&security=reality&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=2715592069f36fe7#%F0%9F%8C%8D%20%E2%80%A2%20Seychelles%20%E2%80%93%20Unknown
