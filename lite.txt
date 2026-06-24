@@ -1,6 +1,6 @@
 # profile-title: base64:8J+Mj+OAkFJhYmJpdFByb3h5WiBMSVRF44CR8J+Mjw==
 # profile-update-interval: 1
-# Date/Time: 2026-06-24 / 10:44:59 (Moscow)
+# Date/Time: 2026-06-24 / 11:00:13 (Moscow)
 # Количество: 300
 ss://aa3415b8-f471-47c4-8159-7681d645c8ca@198.186.131.222:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=b6n3d22n.qcwdcq.workers.dev&path=%2F&security=tls&sni=b6n3d22n.qcwdcq.workers.dev&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20%E2%80%A2%20Germany%20%E2%80%93%20Frankfurt%20am%20Main
 ss://037db5a7-051f-4ac9-844d-703d087a3984@93.123.85.21:443?security=tls&type=ws&ech=godotengine.org%2Budp%3A%2F%2F208.67.220.220%3A443&host=wvdi9kuh.bqjk41e0gtbj1fg244d7.workers.dev&fp=chrome&sni=wvdi9kuh.bqjk41e0gtbj1fg244d7.workers.dev&path=%2F%3Fed%3D2560&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20%E2%80%A2%20Germany%20%E2%80%93%20Frankfurt%20am%20Main
