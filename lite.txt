@@ -1,6 +1,6 @@
 # profile-title: base64:8J+Mj+OAkFJhYmJpdFByb3h5WiBMSVRF44CR8J+Mjw==
 # profile-update-interval: 1
-# Date/Time: 2026-06-24 / 06:25:51 (Moscow)
+# Date/Time: 2026-06-24 / 06:41:04 (Moscow)
 # Количество: 300
 trojan://humanity@81.255.155.10:443?security=tls&sni=www.creationlong.org&type=ws&path=%2Fassignment#%F0%9F%87%AB%F0%9F%87%B7%20%E2%80%A2%20France%20%E2%80%93%20Paris
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@184.174.80.50:8880?type=ws&host=vms.lifetime42.workers.dev&path=/?ed=2560#%F0%9F%87%BA%F0%9F%87%B8%20%E2%80%A2%20United%20States%20%E2%80%93%20Unknown
