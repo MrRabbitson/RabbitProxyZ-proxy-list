@@ -1,6 +1,6 @@
 # profile-title: base64:8J+Mj+OAkFJhYmJpdFByb3h5WiBMSVRF44CR8J+Mjw==
 # profile-update-interval: 1
-# Date/Time: 2026-06-24 / 15:03:48 (Moscow)
+# Date/Time: 2026-06-24 / 15:19:04 (Moscow)
 # Количество: 300
 trojan://MiTiVPN@151.101.110.219:443?path=/nl=mitivpn&security=tls&alpn=http/1.1&insecure=1&host=cdn2-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=global.fastly.com#%F0%9F%87%BA%F0%9F%87%B8%20%E2%80%A2%20United%20States%20%E2%80%93%20Unknown
 vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?path=/ca-cl&security=tls&encryption=none&insecure=0&host=unnes.ac.id.yxls.eu.cc&type=ws&allowInsecure=0&sni=unnes.ac.id.yxls.eu.cc#%F0%9F%87%AC%F0%9F%87%A7%20%E2%80%A2%20United%20Kingdom%20%E2%80%93%20Unknown
