@@ -1,6 +1,6 @@
 # profile-title: base64:8J+Mj+OAkFJhYmJpdFByb3h5WiBMSVRF44CR8J+Mjw==
 # profile-update-interval: 1
-# Date/Time: 2026-07-05 / 01:43:38 (Moscow)
+# Date/Time: 2026-07-05 / 01:58:46 (Moscow)
 # Количество: 300
 trojan://73796e63-0000-4000-8000-000000000000@104.17.148.22:443?path=%2Fsync&security=tls&host=hide.sasadism77.workers.dev&fp=chrome&type=ws&sni=hide.sasadism77.workers.dev#%F0%9F%8C%8D%20%E2%80%A2%20Unknown%20%E2%80%93%20Unknown
 vless://53342b53-157e-4475-9f3a-40439434e689@104.21.7.133:80?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=none&sni=c.iamdt.dpdns.org&type=ws&host=c.iamdt.dpdns.org&path=/?ed=2048#%F0%9F%8C%8D%20%E2%80%A2%20Unknown%20%E2%80%93%20Unknown
