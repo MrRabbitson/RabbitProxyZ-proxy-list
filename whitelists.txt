@@ -1,9 +1,7 @@
 # profile-title: base64:8J+Ps+OAkFJhYmJpdFByb3h5WiDDlyDQkdCV0JvQq9CVINCh0J/QmNCh0JrQmOOAkQ==
 # profile-update-interval: 1
-# Date/Time: 2026-07-07 / 22:06:40 (Moscow)
-# Количество: 5
-http://www.w3.org/2000/svg"><path#%F0%9F%8C%8D%20%E2%80%A2%20Unknown%20%E2%80%93%20Unknown%20%C3%97%20%F0%9F%8F%B3%20Whitelists
-https://github.com/neoascetic/rawgithack">Source#%F0%9F%8C%8D%20%E2%80%A2%20Unknown%20%E2%80%93%20Unknown%20%C3%97%20%F0%9F%8F%B3%20Whitelists
-https://status.githack.com/?r=neoascetic/raw.githack.com-monitor">Status</a></li>#%F0%9F%8C%8D%20%E2%80%A2%20Unknown%20%E2%80%93%20Unknown%20%C3%97%20%F0%9F%8F%B3%20Whitelists
-http://thenounproject.com/lnakanishi">Linda#%F0%9F%8C%8D%20%E2%80%A2%20Unknown%20%E2%80%93%20Unknown%20%C3%97%20%F0%9F%8F%B3%20Whitelists
-http://thenounproject.com/noun/sushi/#%F0%9F%8C%8D%20%E2%80%A2%20Unknown%20%E2%80%93%20Unknown%20%C3%97%20%F0%9F%8F%B3%20Whitelists
+# Date/Time: 2026-07-08 / 00:16:52 (Moscow)
+# Количество: 3
+hysteria2://LzMWgm6LaNWCm11bFTbynDPq2TqQj03t@5.255.102.165:443?insecure=1#%F0%9F%87%B3%F0%9F%87%B1%20%E2%80%A2%20The%20Netherlands%20%E2%80%93%20Dronten%20%C3%97%20%F0%9F%8F%B3%20Whitelists
+hysteria2://LzMWgm6LaNWCm11bFTbynDPq2TqQj03t@5.255.102.165:443?insecure=1&sni=www.microsoft.com#%F0%9F%87%B3%F0%9F%87%B1%20%E2%80%A2%20The%20Netherlands%20%E2%80%93%20Dronten%20%C3%97%20%F0%9F%8F%B3%20Whitelists
+hysteria2://LzMWgm6LaNWCm11bFTbynDPq2TqQj03t@5.255.102.165:443?sni=5.255.102.165&insecure=1#%F0%9F%87%B3%F0%9F%87%B1%20%E2%80%A2%20The%20Netherlands%20%E2%80%93%20Dronten%20%C3%97%20%F0%9F%8F%B3%20Whitelists
